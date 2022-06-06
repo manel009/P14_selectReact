@@ -1,0 +1,14 @@
+{
+  "name": "selectreact-manel",
+  "version": "1.0.0",
+  "description": "converted select from jquery to react component ",
+  "main": "Select.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manel",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.1.0"
+  }
+}
